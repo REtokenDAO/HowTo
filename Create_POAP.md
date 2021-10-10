@@ -15,7 +15,11 @@ https://app.poap.xyz/admin/events/
 > *Click on the "Create new POAP" button*
 
 # [4] Populate Event Details
-- use REtoken.DAO@gmail.com for email address
+
+```use REtoken.DAO@gmail.com for email address```
+
+## POAP Event Details
+* [Core Team | 2021-W41 | Weekly Planning Session [LiveStream] | Sun 3p EDT / 10Oct2021](https://trello.com/1/cards/615f3efa60d8178e1831b3de/attachments/61635e3b87dcd055a3877011/download/notes_POAP_REtoken.DAO_Core-Team-Planning_2021-W41_2021-10-10T1500EDT.txt)
 
 ## [4.1 - Optional] Create Secret Name (for mobile app)
 https://app.poap.xyz/admin/secrets
