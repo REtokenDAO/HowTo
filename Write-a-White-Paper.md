@@ -17,5 +17,6 @@
 ## [5] Why? (IE: Origin Story)
 
 # REtoken | White Paper | Event History
+* Tue 7p EST [2h] Working Group #2
 * Sat 3p EST [2h] Working Group #1
 * Planning Call
