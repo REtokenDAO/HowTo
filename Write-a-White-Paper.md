@@ -4,12 +4,18 @@
 # Overview
 * We (REtokenDAO) have had on our Roadmap to create a White Paper in 2021-Q4.  The team is moving forward on this delivery promise and in Nov-2021 has begun hosting working groups to execute upon this vision.
 
-# Steps
+# Steps | The 5 Ws
 
-## [1] What problem are you solving?
+## [1] Who is your target audience?
 
-## [2] Who is your target audience?
+## [2] What problem are you solving?
 
-# REtoken | Event History
+## [3] When will this occur? (IE: Roadmap)
+
+## [4] Where will this occur?
+
+## [5] Why? (IE: Origin Story)
+
+# REtoken | White Paper | Event History
 * Sat 3p EST [2h] Working Group #1
 * Planning Call
